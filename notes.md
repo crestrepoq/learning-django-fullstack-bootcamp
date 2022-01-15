@@ -27,6 +27,22 @@ Div and Span are used for group together to applying css inside for adding style
     - alt atribute generate an alternative text when an image is not appearing
 - **a** with **href** for insert a link
 
+#### Tables
+- **table**: tag for start a table
+- **thead**: First/ Header raw of table
+- **th**: Elements placing inside of header raw\
+- **tr**: table rows
+- **td** or table cells: Elemens correspond to each column
+
+#### Forms
+- **Input**: For add information for generating an action
+    - **type**: Could be like _email_, _passwords_, _submit_, _text_, _color_
+    - **placeholder** versus **value**: It is common to use element placeholder for no adding text to the input, it's just and indication that it's dropped when you type
+    - **required**: for determine and element that has to be complete for sending the form
+- **Actions**: Arrives yow to another site
+- **Labels**: Are use for name or label inputs, it often use with elemnt "for" for giving a name and the used in element "id" in some "input" tag
+- **Selections**: like type _radio_, _select_ and _option_ (s) tags and _textarea_ for delimit text to type
+
 **comment code:** <!-- Anything here is a comment-->
 
 Sources for learning HTML:
