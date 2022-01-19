@@ -1,0 +1,55 @@
+body{
+    font-family: 'Neonderthaw', cursive;
+}
+
+#maintitle{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    padding: 20px 20px 20px 20px;
+}
+
+#maintable{
+    margin: auto;
+    width: 85%;
+}
+
+#one{
+    background-color: #001524;
+    width: 200px;
+    height: 400px;
+    border: 6px solid white;
+    margin: auto;    
+}
+
+#two{
+    background-color: #15616d;
+    width: 200px;
+    height: 400px;
+    border: 6px solid white;
+    margin: auto;
+}
+
+#three{
+    background-color: #ffecd1;
+    width: 200px;
+    height: 400px;
+    border: 6px solid white;
+    margin: auto;
+}
+
+#four{
+    background-color: #ff7d00;
+    width: 200px;
+    height: 400px;
+    border: 6px solid white;
+    margin: auto;
+}
+
+#five{
+    background-color: #78290f;
+    width: 200px;
+    height: 400px;
+    border: 6px solid white;
+    margin: auto;
+}

@@ -1,0 +1,20 @@
+body{
+    background: url(https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&w=1000&q=80);
+    background-size: 100vw;
+}
+
+div{
+    background-color: blue;
+    border-color: orange;
+    border-width: 5px;
+    border-style: dotted;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background-color: red;
+    color: black;
+}

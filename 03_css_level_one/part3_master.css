@@ -1,0 +1,32 @@
+.firstDiv{
+    color: blue;
+}
+
+.secondDiv{
+    color: red;
+}
+
+#singledout{
+    color: green;
+    text-decoration: line-through;
+}
+
+/* *{
+    color: black;
+} */
+
+/* Unorder list placed inmediatly after an h3 */
+h3 + ul{
+    border: 4px dotted purple;
+}
+
+/* All links inside an element of a list */
+li a{
+    color: red;
+}
+
+/* All specific links inside an element of a list */
+li a[href='www.npr.org']{
+    color: blue;
+    border: 5px solid orange;
+}

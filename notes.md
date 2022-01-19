@@ -50,7 +50,51 @@ Sources for learning HTML:
 - developer.mozilla.org
 
 ## CSS
+Help you to stylish your page
 
+Usually you conect a file of css inside a html file using **"link"** tag and linking with the path in _"href"_ attribute
+
+### **Common structure or formato for css:**
+
+_selected tag{_
+    _property: value;_
+_}_
+
+### **Some properties you can apply stylish in css:**
+- **Color:** you can use Color name (red, blue, purple) or use RGB (mixes of Red, Green, Blue) or hexagesimal (Most common used). You can use rgba (a = alpha for give transparency - value between 0 and 1)
+- **background**: you define if is a color or and image, its size...
+
+### Selectors
+Selectors are common used for selecting subsets or code elements and apply specific styling. Ids starts with "#" in css
+- **ids**: are used to target single elements
+- **classes**: to target groups of elements. Classes start with "." in css
+- **"*"**: Selects all elements. Usually overwrite classes. It is not usually used.
+
+For more deep knowledge about selectors visit (Selectors)[https://www.w3schools.com/cssref/css_selectors.asp]
+
+### Specificity
+Defines the hierarchy of CSS styling and what type of tagss overrule others.
+
+### Fonts
+- You can chose _font-family_ for stablish type of font you want for all text or specific text
+- em is the relationship with _font-size_ you define: 1em = 16 px --> 2em = 32 px
+- Also, you can chose _font-style_ as _italic_, _font-weight_ as _bold_, _text-aling_ as _center_.
+
+#### Sources for dowloading fonts
+1. (Fonts Google)[https://fonts.google.com]
+2. (Font Library)['https://fontlibrary.org']
+
+### Box Model
+This is the order:
+1. Margin
+2. Border
+3. Padding
+4. Content
+
+You can specify the _top, bottom, left and right_ of each one before
+
+
+**commet code:** /* Anything here is a comment */
 
 ## Javascript
 
