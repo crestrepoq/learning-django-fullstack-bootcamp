@@ -96,5 +96,36 @@ You can specify the _top, bottom, left and right_ of each one before
 
 **commet code:** /* Anything here is a comment */
 
-## Javascript
+
+### Bootstrap   
+It is a Framework with predesing components of CSS and HTML
+- Bootstrap has deafult classes you can use easyly
+- Inside row class, we have the following forma:
+    - col-ScreenSize-NumberOfColumns
+    ej. col-md-6
+
+![Columns in Bootstrap]("../files/columns_bootstrap.jpg")
+
+## Javascript (Js)
+
+It is a Programming Language. Let you interact with websites among other things.
+
+- In Js the function for print in console is **Alert**
+- For comment in Js you use double slash ("//")
+- In Js there is not a distiction between number types, they are just numbers (Not like other languages that distingue Integers, Floats...)
+- Other data types are: String, Numbers, Boleans (true, false), undefined, null...
+- You can concatenate strings using + 
+- string.lenght is the method for calculate lenght of a string or list
+
+
+### Variables:
+The way to call a variable is like follow:
+- var varName = value;
+   - ej. var bankAccount = 100
+
+Notes: 
+- Undefined means you create something but you do not defined it
+- Null means actually you assing nothing to a variable for example
+- console.log("text") is the way to print in the console
+- prompt is the way to display a form for input something
 
